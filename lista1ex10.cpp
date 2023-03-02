@@ -17,5 +17,4 @@ using namespace std;
                if (a > c) printf("%4d%4d%4d\n", b, a, c);   
                else printf("%4d%4d%4d\n", b, c, a);         
            else printf("%4d%4d%4d\n", c ,b, a);             
-       return 0;
 }
